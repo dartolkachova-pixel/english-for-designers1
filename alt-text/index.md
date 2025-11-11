@@ -1,3 +1,10 @@
+---
+layout: default
+title: "Meta Title"
+description: "Meta Discription"
+image: "img/og-preview-image.png"
+---
+
 # Contetnt First
 
 ## Contents
