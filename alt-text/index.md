@@ -12,6 +12,8 @@ Write smth here about your work.
 
 ![Add your alt text.](img/letter_D.png)
 
+For more info: [The Open Graph protocol](https://ogp.me/)
+
 
 #### Subheading
 
