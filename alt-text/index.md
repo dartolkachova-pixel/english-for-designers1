@@ -2,7 +2,7 @@
 
 ## Contents
 
--[Preview Image](#opengraph-social-media-preview-image)
+- [Preview Image](#opengraph-social-media-preview-image)
 
 Write smth here about your work.
 
